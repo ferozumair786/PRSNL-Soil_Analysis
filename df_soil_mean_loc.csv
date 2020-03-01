@@ -4,13 +4,13 @@
 2,10th @ Prospect -- Front,51.0,0.0,30.26427,-97.71782
 3,10th St.@Theresa Ave,62.0,9.11,30.28143,-97.7649
 4,10th@Northwestern,19.37,0.0,30.26604,-97.71402
-5,12th St.@Meridian Lane,0.0,0.0,30.27517,-97.71114
+5,12th St.@Meridian Lane,16.0,0.0,30.27517,-97.71114
 6,12th@Chicon,43.215,0.0,30.27376,-97.7199
 7,12th@EM Franklan,10.66,0.0,30.27779,-97.69457
-8,12th@Waller,47.93,8.34,30.27245,-97.72813
+8,12th@Waller,47.93,8.34,30.27234,-97.72883
 9,13th @ Singleton Ave.,132.0,0.0,30.27568,-97.71417
 10,1458@Davis Ln,13.01,7.02,30.19532,-97.84232
-11,14th @ Comal,0.0,0.0,30.27514,-97.72425
+11,14th @ Comal,16.0,0.0,30.27514,-97.72425
 12,14th@Poquito,28.15,0.0,30.27591,-97.71932
 13,14th@Salina,73.13,0.0,30.27559,-97.72133
 14,15th st@Pease,14.65,0.0,30.27841,-97.74455
@@ -26,7 +26,7 @@
 24,30th@Kerbey,72.135,0.0,30.30199,-97.75334
 25,30th@Lamar,22.93,0.0,30.29905,-97.74695
 26,32nd@French,15.45,0.0,30.28767,-97.71873
-27,39th @ Ave F,65.0,0.0,30.30188,-97.7315
+27,39th @ Ave F,65.0,0.0,30.30139,-97.7318
 28,39th @ Red River,52.0,0.0,30.29729,-97.72298
 29,42nd@Bellevue,8.29,0.0,30.26759,-97.74299
 30,42nd@Ramsey,19.99,0.0,30.31269,-97.74562
@@ -44,11 +44,11 @@
 42,49th@Duval,10.915,7.8100000000000005,30.31202,-97.72136
 43,49th@Sunrise,39.44,0.0,30.26759,-97.74299
 44,49th@Sunshine,35.79,0.0,30.31787,-97.73489
-45,51st @183,0.0,0.0,30.29232,-97.66411
+45,51st @183,16.0,0.0,30.29232,-97.66411
 46,51st@Leralynn,18.65,0.0,30.31673,-97.72633
 47,51st@Springdale,12.21,6.14,30.29362,-97.67785
 48,52nd@Lancaster Ct,13.08,0.0,30.26759,-97.74299
-49,53-1/2 St. @ Harmon,0.0,0.0,30.31297,-97.71031
+49,53-1/2 St. @ Harmon,16.0,0.0,30.31297,-97.71031
 50,55th @ Chesterfield,20.0,0.0,30.3213,-97.72283
 51,620@2222,5.335,0.0,30.40376,-97.85395
 52,6th @ Marx,14.0,0.0,30.24865,-97.76325
@@ -80,7 +80,7 @@
 78,Adam Chapel@E. 3rd St.,30.0,0.0,30.26477,-97.74212
 79,Addison@Daugherty,24.49,7.89,30.34427,-97.73946
 80,Adelphi @ Amherst,24.0,0.0,30.42151,-97.71563
-81,Airport @ 45th,0.0,0.0,30.30362,-97.716
+81,Airport @ 45th,16.0,0.0,30.30362,-97.716
 82,Airport @ 53rd,39.0,0.0,30.31403,-97.71503
 83,Airport @ MLK,37.0,0.0,30.28254,-97.70396
 84,Airport @ Rowood,38.0,0.0,30.29929,-97.71081
@@ -88,71 +88,71 @@
 86,Alamo@21st,33.63,8.53,30.28211,-97.71971
 87,Alegria Rd@Woodrow,48.53,0.0,30.3343,-97.73038
 88,Alexadria Dr@Treehouse,0.0,8.46,30.20232,-97.84566
-89,Alexandria Dr.@Horton,0.0,7.0,30.20319,-97.84743
+89,Alexandria Dr.@Horton,16.0,7.0,30.20319,-97.84743
 90,Alexandria Dr@Horton,15.77,7.14,30.20319,-97.84743
 91,Alf Ave. @ Don Ann,38.0,0.0,30.26742,-97.69069
 92,Alf@Springdale (BACK Yard),48.0,0.0,30.26879,-97.69349
 93,Alf@Springdale (FRONT Yard),34.0,0.0,30.26879,-97.69349
 94,Alta Vista Ave. @ Woodland,13.0,0.0,30.24406,-97.74318
 95,Amherst @Eton,9.54,0.0,30.41321,-97.72101
-96,Amherst Drive @Adelphi Drive,0.0,5.68,30.42151,-97.71563
+96,Amherst Drive @Adelphi Drive,16.0,5.68,30.42151,-97.71563
 97,Anarosa@Scofield Farms,4.63,0.0,,
-98,Anderson Mill Rd. @ Blk. Oak,0.0,0.0,30.45491,-97.7706
-99,Andre Zilker Rd@William Barton,20.27,0.0,30.26574,-97.76932
-100,Andrew Zilker@William Barton,0.0,5.84,30.26574,-97.76932
+98,Anderson Mill Rd. @ Blk. Oak,16.0,0.0,30.45491,-97.7706
+99,Andre Zilker Rd@William Barton,20.27,0.0,30.26574,-97.77183
+100,Andrew Zilker@William Barton,0.0,5.84,30.26574,-97.77183
 101,Annie Oakley@Derringer,9.78,0.0,30.36771,-97.68783
 102,Antero Dr@Steck,0.0,8.21,30.378,-97.75795
-103,Antoinette Pl. @ Cabana Ln.,0.0,0.0,30.41919,-97.72171
+103,Antoinette Pl. @ Cabana Ln.,16.0,0.0,30.41919,-97.72171
 104,Antone St. @Vaughan,7.85,0.0,30.29144,-97.70329
 105,Arroyo Seco@Jim Hogg,19.5,0.0,30.33115,-97.73452
 106,Arthur Stiles@ Lotus Ln. B,14.0,0.0,30.26071,-97.67823
-107,Ashland@Greensboro,0.0,0.0,30.30873,-97.6639
+107,Ashland@Greensboro,16.0,0.0,30.30873,-97.6639
 108,Aspen Dale @Eton,7.18,0.0,30.41394,-97.72246
-109,Aster Pass@El Salido,0.0,0.0,30.26759,-97.74299
+109,Aster Pass@El Salido,16.0,0.0,30.26759,-97.74299
 110,Atlanta @Veterans,17.59,10.41,30.27572,-97.77157
 111,Atlanta Street@Veteran's Drive,25.0,0.0,30.27572,-97.77157
 112,Attar Cove @ Charing Cross,16.0,0.0,30.42898,-97.76721
 113,Ave G@E. 41st,82.305,9.455,30.30327,-97.72939
 114,Ave. H @ 46th St.,32.0,0.0,30.30929,-97.72431
 115,Axis Cir@Vineyard Ridge,14.21,7.5,30.14696,-97.81805
-116,Balcones Club@Crest Ridge Circle,22.28,0.0,30.43691,-97.78191
+116,Balcones Club@Crest Ridge Circle,22.28,0.0,30.43805,-97.78698
 117,Balcones Dr@35th st.,23.91,0.0,30.31375,-97.76755
-118,Balcones Woods Circle@183,18.69,0.0,30.40789,-97.74557
+118,Balcones Woods Circle@183,18.69,0.0,30.40778,-97.74473
 119,Ballycastle Tr@Avery Ranch,12.5,0.0,30.49395,-97.78339
 120,Bandera@Springdale,9.0,0.0,30.28416,-97.68375
 121,Banyan@Sugar Magnolia,8.84,0.0,30.26759,-97.74299
 122,Barley Field Pass@Dusty Chisolm Trail,13.0,0.0,,
-123,Barton Hills@Farnswood Circle,0.0,5.0,30.25305,-97.79123
+123,Barton Hills@Farnswood Circle,16.0,5.0,30.25351,-97.78992
 124,Barton Springs@Stratford,22.846666666666664,0.0,30.26673,-97.77015
 125,Basket Flower Bend@Prairie Verbena,0.0,5.41,,
-126,Bath@Copperfield,0.0,0.0,30.39548,-97.6595
+126,Bath@Copperfield,16.0,0.0,30.39548,-97.6595
 127,Baywood@Ceberry,9.32,0.0,30.36833,-97.74763
 128,Bear Canyon@Sendero Verde,10.57,7.2,30.25448,-97.82923
 129,Bear Creek @ FM 1826,21.0,0.0,30.16636,-97.94522
-130,Beaver Brook Ln. @ Orr,0.0,0.0,30.1794,-97.79374
+130,Beaver Brook Ln. @ Orr,16.0,0.0,30.1794,-97.79374
 131,Beckett Rd@Davis Ln,6.49,11.469999999999999,30.20782,-97.86942
 132,Beckett Rd@La Cresada Dr,8.23,7.66,30.20404,-97.87077
 133,Beckett Rd@TaylorCrest,11.22,0.0,30.20581,-97.87044
 134,Belclaire Ln@Blue Valley,17.15,0.0,30.18246,-97.79274
 135,Belfast@Ridgehaven,23.8,0.0,30.3127,-97.69703
-136,Belfry Pass@Briarcreek Loop,0.0,11.0,30.49283,-97.70469
-137,Ben Crenshaw@Whitemarsh,9.335,4.355,30.28402,-97.84254
+136,Belfry Pass@Briarcreek Loop,16.0,11.0,30.49283,-97.70469
+137,Ben Crenshaw@Whitemarsh,9.335,4.355,30.28509,-97.84187
 138,Ben White@Banister,7.8825,0.0,30.22811,-97.77912
 139,Bender Dr@Holt Dr,11.16,0.0,30.20922,-97.83558
-140,Berkeley@Cockburn,0.0,7.0,30.2103,-97.80998
+140,Berkeley@Cockburn,16.0,7.0,30.2103,-97.80998
 141,Bickler@Academy,134.48,0.0,30.25099,-97.74178
-142,Big Trail Cove@Wind River,0.0,8.0,30.41173,-97.74071
-143,Bittern Hollow@Lincolnshire,0.0,8.02,30.39898,-97.6962
-144,Blackberry @ Lunar,3.25,0.0,30.18579,-97.78686
+142,Big Trail Cove@Wind River,16.0,8.0,30.41173,-97.74071
+143,Bittern Hollow@Lincolnshire,16.0,8.02,30.39703,-97.69542
+144,Blackberry @ Lunar,15.25,0.0,30.18579,-97.78686
 145,Blacklock Drive@Limerick Avenue,15.0,0.0,30.41863,-97.69715
 146,Blessing @ E. Anderson,15.0,0.0,30.33438,-97.69149
 147,Bloomsbury@Downing,18.0,0.0,30.26759,-97.74299
 148,Bloor Rd@Blue Bluff,9.5,8.04,30.30903,-97.59191
-149,Blue Bluff@FM 969,1.7142857142857142,0.8571428571428571,30.26257,-97.62122
-150,Blue Ridge@Winding River Trail,0.0,0.0,30.56258,-97.73624
-151,Bluebonnet @ Lund,0.0,0.0,30.25159,-97.77413
-152,Bluebonnet@Heather,0.0,0.0,30.26759,-97.74299
-153,Bluebonnet@Hether,0.0,6.0,30.25262,-97.77347
+149,Blue Bluff@FM 969,15.428571428571429,0.8571428571428571,30.26257,-97.62122
+150,Blue Ridge@Winding River Trail,16.0,0.0,30.56258,-97.73624
+151,Bluebonnet @ Lund,16.0,0.0,30.25159,-97.77413
+152,Bluebonnet@Heather,16.0,0.0,30.26759,-97.74299
+153,Bluebonnet@Hether,16.0,6.0,30.25262,-97.77347
 154,Bob Harrison @ Navasota,90.5,0.0,30.27402,-97.72807
 155,Bolm @ Mansell,74.0,0.0,30.26113,-97.69611
 156,Bolm @ Perry ,11.0,0.0,30.2565,-97.68664
@@ -165,7 +165,7 @@
 163,Brentwood @ Elwood,31.0,0.0,30.33759,-97.72889
 164,Briar@Milton,29.11,0.0,30.25018,-97.75987
 165,Broadmoor @ Berkman -- veg,53.0,0.0,30.30633,-97.69736
-166,Broadmoor@Belfast,13.0,0.0,30.30787,-97.70066
+166,Broadmoor@Belfast,21.0,0.0,30.30787,-97.70066
 167,Brodie @ Elijah St.,14.0,0.0,30.20413,-97.83664
 168,Brodie Lane@Elijah street,29.0,0.0,30.20413,-97.83664
 169,Brodie@Bismark,4.435,0.0,30.14203,-97.84754
@@ -184,31 +184,31 @@
 182,Bunny Run@Cedar,11.82,9.18,30.34206,-97.80877
 183,Burleson @ Metcalfe,34.0,0.0,30.22219,-97.73454
 184,Burly Oak@Gains Mill,12.76,4.095,30.19819,-97.81403
-185,Burlywood@Deercreek,4.5,4.5,30.34048,-97.77301
-186,Burnet @North Loop,0.0,0.0,30.32583,-97.73963
+185,Burlywood@Deercreek,12.5,4.5,30.34048,-97.77301
+186,Burnet @North Loop,16.0,0.0,30.32583,-97.73963
 187,Burnet Rd@Pegram,54.2075,0.0,30.3454,-97.73753
 188,Burnet@Koenig,11.02,0.0,30.3348,-97.73983
 189,Burnet@Pegram,68.68,17.53,30.3454,-97.73753
 190,Burrell@Villanova,15.47,9.02,30.36002,-97.72125
-191,Byron @ Durnberry,7.0,0.0,30.23553,-97.7861
+191,Byron @ Durnberry,15.0,0.0,30.23553,-97.7861
 192,Byton Loop@Cherry Creek,0.0,5.28,,
-193,C.Chavez @ Mopac,15.0,0.0,30.34196,-97.75325
+193,C.Chavez @ Mopac,15.0,0.0,30.37057,-97.74149
 194,CR 470@CR 619,15.0,0.0,30.26759,-97.74299
 195,CR 470@CR 619 (Black Mud Sample),15.0,0.0,30.10907,-97.7208
-196,CR 470@CR 619 (Pond Sample),0.0,0.0,30.26759,-97.74299
+196,CR 470@CR 619 (Pond Sample),16.0,0.0,30.26759,-97.74299
 197,Caesar Chavez @ Chicon,19.0,9.0,30.25712,-97.72464
 198,Caira Cv@Scotland Well Dr,4.945,0.0,30.4265,-97.79659
-199,Calaveras Dr.@Terra Verde,0.0,7.0,30.49662,-97.77037
-200,Calles@Smith St.,0.0,0.0,30.23799,-97.58685
+199,Calaveras Dr.@Terra Verde,16.0,7.0,30.49662,-97.77037
+200,Calles@Smith St.,16.0,0.0,30.23799,-97.58685
 201,Camacho St. @Berkman Dr. ,0.0,0.0,30.29567,-97.70029
-202,Cameron @ E. Anderson,9.0,0.0,30.3328,-97.68613
+202,Cameron @ E. Anderson,17.0,0.0,30.3328,-97.68613
 203,Canterbury @ Navasota,63.0,0.0,30.2576,-97.73124
 204,Carlsbad Dr@Napa Dr,9.98,0.0,30.31219,-97.92525
 205,Catalpa Street@Waller Street,22.0,0.0,30.27174,-97.72799
 206,Ceylon Tea Cir@Sumatra,13.98,0.0,30.21211,-97.83928
 207,Chalmers @ 11th,43.0,0.0,30.26677,-97.72253
 208,Chappell Ln @ Manchaca,10.0,0.0,30.15171,-97.82575
-209,Charred Oak Dr.@Sweetshade Lane,0.0,0.0,30.42656,-97.77184
+209,Charred Oak Dr.@Sweetshade Lane,16.0,0.0,30.42656,-97.77184
 210,Cherie@Bittern Hollow,9.79,0.0,30.39793,-97.69505
 211,Cherrywood @ Edgewood,19.0,0.0,30.28799,-97.71602
 212,Cherrywood@Manor,17.0,0.0,30.2844,-97.7185
@@ -223,20 +223,20 @@
 221,Clara St@Pedernales ,166.47,0.0,30.2538,-97.71818
 222,Clara@Willow,23.0,0.0,30.25381,-97.71818
 223,Clayton@Cameron Rd,61.78,18.01,30.31727,-97.69964
-224,Clydesdale @Harpers Ferry,0.0,25.0,30.20463,-97.83012
+224,Clydesdale @Harpers Ferry,16.0,25.0,30.20463,-97.83012
 225,Coffee Bean  @Sambuca Cir,20.4,0.0,30.46388,-97.68706
-226,Colberg@Ruckland,10.95,6.78,30.21064,-97.88908
+226,Colberg@Ruckland,10.95,6.78,30.21272,-97.89001
 227,Colony Loop Dr@Valley Field Dr,10.64,0.0,30.29868,-97.62961
 228,Comal @ Concho St.,34.0,0.0,30.26585,-97.72404
 229,Connecticut Dr.@Jamestown,9.0,0.0,30.35859,-97.70504
 230,Connor @Cambourne,7.14,0.0,30.41189,-97.65058
-231,Convict Hill Rd.@Escarpment Blvd.,0.0,0.0,30.22577,-97.86859
+231,Convict Hill Rd.@Escarpment Blvd.,16.0,0.0,30.22577,-97.86859
 232,Convict Hill@Whistlestop,8.97,6.35,30.22379,-97.86459
 233,Cooper@Bodark Ln,15.1,0.0,30.19486,-97.79348
-234,Copano@Eskew,0.0,14.0,30.20934,-97.84887
+234,Copano@Eskew,16.0,14.0,30.20934,-97.84887
 235,Coppermead@Edenbourgh,11.2,8.96,30.33293,-97.64522
 236,Cornflower@Archaleta,11.3,7.26,30.26759,-97.74299
-237,Coronado @Mathias,0.0,0.0,30.2622,-97.71476
+237,Coronado @Mathias,16.0,0.0,30.2622,-97.71476
 238,Country Ln@Morning Sun Ln,0.0,5.19,,
 239,Crenata@Jollyville,7.95,5.78,30.26759,-97.74299
 240,Creole Dr. @Lamplight Village,0.0,0.0,30.4276,-97.68921
@@ -252,12 +252,12 @@
 250,Deen@N. Lamar,23.130000000000003,0.0,30.35656,-97.70124
 251,Deer Track@Maverick Dr,21.65,0.0,30.42715,-97.73611
 252,Delores Ave @Mason Ave,99.44,0.0,30.27534,-97.68449
-253,Denson @ Guadalupe,0.0,0.0,30.32886,-97.72044
+253,Denson @ Guadalupe,16.0,0.0,30.32886,-97.72044
 254,Denton@Delta,0.0,0.0,30.38751,-97.71732
 255,Dinah Dr@Yvette Cv,5.66,3.02,30.16552,-97.8345
-256,Dinah@Yvette,0.0,7.0,30.16552,-97.8345
-257,Donovan Circle@Zeller Lane,0.0,0.0,30.39425,-97.66198
-258,Dorchester Heights@Magna Carta Loop,0.0,9.0,30.34002,-97.64589
+256,Dinah@Yvette,16.0,7.0,30.16552,-97.8345
+257,Donovan Circle@Zeller Lane,16.0,0.0,30.39425,-97.66198
+258,Dorchester Heights@Magna Carta Loop,16.0,9.0,30.33814,-97.6476
 259,Dorman Dr. @ Jilbur,17.5,0.0,30.50591,-97.73334
 260,Drake@Lockhart,678.0,33.0,30.24388,-97.74866
 261,Drake@Park,199.0,0.0,30.24868,-97.74689
@@ -267,21 +267,21 @@
 265,Dywer@Folts,10.48,0.0,30.25745,-97.76979
 266,Dywer@Garner,11.91,0.0,30.25632,-97.76795
 267,E 4th. @Brushy,250.0,0.0,30.26362,-97.73435
-268,E Oltorf St.@Schriben St.,0.0,0.0,30.23465,-97.74371
+268,E Oltorf St.@Schriben St.,16.0,0.0,30.23465,-97.74371
 269,E. 11th@Alamo,19.73,0.0,30.2530528,-97.7375257
 270,E. 21st St. @ Alamo,30.0,0.0,30.28211,-97.71971
 271,E. 28th @ Dancy St.,366.0,0.0,30.28572,-97.72243
 272,E. 2nd @ Caney -- East,37.0,0.0,30.25698,-97.72128
 273,E. 2nd @ Caney--West,31.0,0.0,30.25698,-97.72128
-274,E. 34th @Speedway,0.0,0.0,30.29812,-97.73511
+274,E. 34th @Speedway,16.0,0.0,30.29812,-97.73511
 275,E. 9th St.@Lincoln,54.0,0.0,30.26389,-97.72011
-276,E. Baker@Moonlit,0.0,0.0,,
+276,E. Baker@Moonlit,16.0,0.0,,
 277,E. Baker@Whisper Willow,13.35,0.0,30.2569,-97.72707
 278,E. Powell Ln@Georgian Dr,15.83,0.0,30.34753,-97.70317
-279,EM Franklin@MLK,0.0,0.0,30.19818,-97.74257
+279,EM Franklin@MLK,16.0,0.0,30.19818,-97.74257
 280,East 30th@Dancy,18.0,0.0,30.2954,-97.73977
 281,East Hove Loop@Carran Ferry Loop,10.8,6.4,30.20127,-97.85426
-282,East Hove Loop@Corran Ferry Loop,0.0,5.5,30.20127,-97.85426
+282,East Hove Loop@Corran Ferry Loop,16.0,5.5,30.20127,-97.85426
 283,East IH-35@Airport,42.0,0.0,30.25986,-97.73728
 284,Eastside Memorial@Cafeteria,13.64,0.0,30.29527,-97.74002
 285,Eastside Memorial@Humanity Courtyard,14.46,0.0,30.29527,-97.74002
@@ -293,33 +293,33 @@
 291,Easy Wind@Cannoneer,8.49,0.0,30.3441,-97.71784
 292,Edenwood@Westgate,14.06,0.0,30.20323,-97.81776
 293,Eilers@Fairfield Lane,85.3,0.0,30.3101,-97.71955
-294,El Rey@El Dorado,13.853333333333333,7.05,30.22027,-97.9104
-295,Elder Hill Rd.@FM 150,0.0,11.0,30.3534921,-97.9210372
+294,El Rey@El Dorado,13.853333333333333,7.05,30.22144,-97.90266
+295,Elder Hill Rd.@FM 150,16.0,11.0,30.3534921,-97.9210372
 296,Elk@Springdale,38.5,0.0,30.28562,-97.8081
 297,Emerald Wood @ S. 1st,22.0,0.0,30.21289,-97.7785
-298,Equestrian Trail@Anarosa Loop,5.785,0.0,30.42972,-97.69384
+298,Equestrian Trail@Anarosa Loop,5.785,0.0,30.42991,-97.69466
 299,Escarpment @Davis,9.67,0.0,30.21164,-97.87643
 300,Eskew Dr@Wakefield Dr,8.47,0.0,30.20559,-97.84262
-301,Eton Lane@Amherst,0.0,0.0,30.41321,-97.72101
+301,Eton Lane@Amherst,16.0,0.0,30.41321,-97.72101
 302,Eton Lane@Tarragonna,13.18,0.0,30.4148,-97.7232
-303,Eton Ln. @ Duval,0.0,0.0,30.41449,-97.72295
+303,Eton Ln. @ Duval,16.0,0.0,30.41449,-97.72295
 304,Exeter@Roxmoor,13.07,0.0,30.30613,-97.68266
-305,FM 1626@Bluebonnet,0.0,0.0,30.2547689,-97.7722291
-306,FM 1854@CR 174,0.0,0.0,30.26759,-97.74299
-307,FM 969@Blue B luff Lane,0.0,0.0,30.26257,-97.62122
-308,FM 973@E. Braker,0.0,0.0,30.3832721,-97.6899876
+305,FM 1626@Bluebonnet,16.0,0.0,30.2547689,-97.7722291
+306,FM 1854@CR 174,16.0,0.0,30.26759,-97.74299
+307,FM 969@Blue B luff Lane,16.0,0.0,30.26257,-97.62122
+308,FM 973@E. Braker,16.0,0.0,30.3832721,-97.6899876
 309,Fair Oaks@Plumas,43.61,20.5,30.2202,-97.79661
 310,Fairfield Ln@Evans,47.35,0.0,30.31072,-97.72075
 311,Fairmont Cr. @ Fairhill Ln.,10.0,0.0,30.21847,-97.79778
-312,Fairweather @ New Hope,0.0,0.0,,
+312,Fairweather @ New Hope,16.0,0.0,,
 313,Far West @Waterline,15.36,8.37,30.36046,-97.76797
-314,Farnswood Circle@Barton Hills Drive,0.0,0.0,30.25305,-97.79123
+314,Farnswood Circle@Barton Hills Drive,16.0,0.0,30.25305,-97.79123
 315,Feather Ridge Tr.@Rocky Ridge Road,40.12,8.93,30.41989,-97.94353
-316,Fence Post@El Salido,0.0,7.0,30.45595,-97.81995
+316,Fence Post@El Salido,16.0,7.0,30.45595,-97.81995
 317,Festival Garden@Holly Shores,16.34,0.0,30.23883,-97.71875
 318,Fiesta@Lyons,24.13,0.0,30.26351,-97.70674
-319,Fiesta@Stokes,13.3625,1.8325,30.26523,-97.70593
-320,Fire Cove@Camp Fire Trail,0.0,6.84,30.2223,-97.85905
+319,Fiesta@Stokes,17.3625,1.8325,30.26523,-97.70593
+320,Fire Cove@Camp Fire Trail,16.0,6.84,30.2223,-97.85905
 321,Fire Oak@Pradera,15.79,6.22,30.222,-97.85906
 322,Fiskville Cemetary Rd@Rundberg,8.7,0.0,30.35493,-97.68285
 323,Florencia@Pinon Vista,0.0,7.35,30.29014,-97.64374
@@ -327,19 +327,19 @@
 325,Forest Mesa@Spicewood Springs,21.0,11.0,30.36576,-97.75113
 326,Forest Ridge@Indigo Trail,9.76,0.0,30.39257,-97.89067
 327,Forest Trail@Vista Ln,14.05,0.0,30.2906,-97.76656
-328,Fort Moultrie@Magna Carta Loop,0.0,10.0,30.33717,-97.6457
+328,Fort Moultrie@Magna Carta Loop,16.0,10.0,30.33747,-97.64807
 329,Foster Ln@Shoal Creek Blvd,29.0,0.0,30.35857,-97.74081
 330,Franciso@Pedernales,0.0,0.0,30.26759,-97.74299
 331,French@32nd,29.12,0.0,30.28767,-97.71873
 332,Frend@32nd,46.68,0.0,30.3003,-97.74297
 333,Friar Tuck@Long Bow,19.0,12.0,30.23446,-97.75104
-334,Frostwood Trail@Briar Hollow,0.0,0.0,30.46007,-97.77237
+334,Frostwood Trail@Briar Hollow,16.0,0.0,30.46007,-97.77237
 335,Gabion Dr@Allerton Ave,17.51,6.59,30.21303,-97.88702
-336,Gardenia Garden @ White Rock Dr.,0.0,0.0,30.33903,-97.74634
+336,Gardenia Garden @ White Rock Dr.,16.0,0.0,30.33903,-97.74634
 337,Garner Ave@Ashby,20.12,11.58,30.2551,-97.76869
 338,Garner Ave@Treadwell St,89.8,0.0,30.25866,-97.76646
 339,Gaylor @ Guadalupe,57.0,0.0,30.33278,-97.71769
-340,George Bush@290,0.0,0.0,30.18974,-97.73479
+340,George Bush@290,16.0,0.0,30.18974,-97.73479
 341,Georgian@Walnut,18.57,0.0,30.35106,-97.7008
 342,Geraghty@Vine,27.65,0.0,30.34698,-97.74303
 343,Gettysburg @No Cross Street,11.17,5.85,30.2564,-97.73243
@@ -349,7 +349,7 @@
 347,Golden Quail@Button Quail,15.375,0.0,30.37834,-97.70256
 348,Gonzales@Pedernales,142.64,0.0,30.26184,-97.71328
 349,Gonzalez@Springdale,80.5,0.0,30.28562,-97.8081
-350,Goodwin@Tillery,0.0,7.0,30.2696,-97.70058
+350,Goodwin@Tillery,16.0,7.0,30.2696,-97.70058
 351,Goodwind@Gunter,10.33,0.0,30.26842,-97.69726
 352,Gracy Farms Ln@Swearingen Dr,16.65,0.0,30.39566,-97.69259
 353,Grayson Lane@Banton,34.57,0.0,30.28792,-97.70912
@@ -361,7 +361,7 @@
 359,Grover @ Romer ,38.0,0.0,30.33193,-97.72748
 360,Grover @ Woodrow,100.0,0.0,30.34839,-97.72326
 361,Grover@Alguno,85.28,12.99,30.33118,-97.72797
-362,Guadalupe Street@51st,0.0,5.36,30.31765,-97.72847
+362,Guadalupe Street@51st,16.0,5.36,30.31765,-97.72847
 363,Guadalupe Street@51st Street,14.95,0.0,30.31765,-97.72847
 364,Guadalupe@Airport,33.9,0.0,30.33396,-97.71693
 365,Gunnison Pass@Purple Sage,13.0,0.0,30.30878,-97.65348
@@ -372,46 +372,46 @@
 370,Harris Glenn @Latchwood,0.0,0.0,30.4011,-97.64941
 371,Harris@Hampton,24.11,7.12,30.29377,-97.72677
 372,Harrison Ln@Ben White ,14.24,0.0,30.22534,-97.67395
-373,Hart @ Far West,3.25,0.0,30.35505,-97.75665
+373,Hart @ Far West,15.25,0.0,30.35505,-97.75665
 374,Haskell@Comal,106.5,0.0,30.25399,-97.73074
 375,Hatley @ Wallis,17.0,0.0,30.27698,-97.78379
-376,Hatley@Inwood Cir,32.05,16.8,30.27494,-97.78118
-377,Haybarn Lane@Docent Cove,0.0,16.0,30.26759,-97.74299
+376,Hatley@Inwood Cir,32.05,16.8,30.27541,-97.78178
+377,Haybarn Lane@Docent Cove,16.0,16.0,30.26759,-97.74299
 378,Hazelhurst Dr@Villa Park,0.0,0.0,30.46122,-97.77166
 379,Hearwood@Thistlewood,11.12,0.0,30.21349,-97.77239
 380,Heathrow Dr.@Greenwich Meridien,0.0,0.0,30.42886,-97.77704
-381,Hellinger@HWY 95,0.0,7.0,30.26759,-97.74299
+381,Hellinger@HWY 95,16.0,7.0,30.26759,-97.74299
 382,Henry Kinney Blvd@Escarpment,14.53,3.91,30.21879,-97.87207
 383,Hermitage @ Furness -- A,9.0,0.0,30.34711,-97.68607
-384,Hero Drive@Travis Green,0.0,0.0,30.25136,-97.84212
+384,Hero Drive@Travis Green,16.0,0.0,30.25248,-97.84443
 385,Highland Haven Dr@Hester Ave,12.73,0.0,30.25995,-97.66924
-386,Hillcrest@Samuel Huston,0.0,0.0,30.28035,-97.67565
+386,Hillcrest@Samuel Huston,16.0,0.0,30.28035,-97.67565
 387,Hog Eye Road@Biffing School Road,7.62,0.0,30.28248,-97.62312
-388,Hog Eye Road@Bitting School Road,0.0,4.65,30.28248,-97.62312
+388,Hog Eye Road@Bitting School Road,16.0,4.65,30.28248,-97.62312
 389,Holly @ Robert Martinez,50.0,0.0,30.25208,-97.72237
 390,Holly@Waller,27.4,0.0,30.25632,-97.73427
 391,Hollywood Ave@Edgewood Ave,20.575000000000003,3.725,30.29009,-97.72038
 392,Honey @Marquette,9.11,7.17,30.31924,-97.68428
-393,Horne Dr. @Checker Dr.,0.0,0.0,30.20077,-97.8401
+393,Horne Dr. @Checker Dr.,16.0,0.0,30.20077,-97.8401
 394,Hornsby@Scurry,4.01,0.0,30.38264,-97.68243
-395,Hot Springs@Rotan,0.0,0.0,30.22089,-97.8777
+395,Hot Springs@Rotan,16.0,0.0,30.22089,-97.8777
 396,Howard Ln@McAllen Pass,0.0,0.0,30.41929,-97.66091
 397,Hudson @ Eleanor,29.0,0.0,30.27376,-97.67931
 398,Hudson@Delano,110.69,0.0,30.27314,-97.67791
-399,Hunt @ Great Northern,0.0,8.0,30.34515,-97.75061
-400,Hunt@Treadwell (1st G),0.0,11.0,30.34389,-97.74763
-401,Hunt@Treadwell (2nd G),0.0,8.0,30.34389,-97.74763
-402,Hunt@Treadwell (3rd G),0.0,7.0,30.34389,-97.74763
+399,Hunt @ Great Northern,16.0,8.0,30.34515,-97.75061
+400,Hunt@Treadwell (1st G),16.0,11.0,30.34389,-97.74763
+401,Hunt@Treadwell (2nd G),16.0,8.0,30.34389,-97.74763
+402,Hunt@Treadwell (3rd G),16.0,7.0,30.34389,-97.74763
 403,Hwy 84@Speegleville Rd,19.18,13.21,30.26759,-97.74299
 404,I-35 @ Flores,10.0,0.0,30.25374,-97.73625
 405,I-35 @ US-183,17.0,0.0,30.33935,-97.70074
 406,I-35@Airport Blvd,28.0,0.0,30.30079,-97.71382
 407,I-H 290 @ McArthur Dr.,12.0,0.0,,
 408,Independence@Rutledge,0.0,0.0,30.2153,-97.8077
-409,Indian Mound Dr@N Lamar,0.0,4.0,30.40584,-97.67857
-410,Indian Summer Pass@Apache,0.0,7.0,,
+409,Indian Mound Dr@N Lamar,16.0,4.0,30.40584,-97.67857
+410,Indian Summer Pass@Apache,16.0,7.0,,
 411,Inspiration Dr@Gunnison Pass,14.02,0.0,30.30948,-97.65303
-412,Iriona Bend@Coastal,0.0,0.0,30.19775,-97.84879
+412,Iriona Bend@Coastal,16.0,0.0,30.19775,-97.84879
 413,Isabelle@Rufus,9.0,8.0,30.33347,-97.71363
 414,J.J. Seabrook Dr.@E. Martin Luther King Jr. Dr.,12.0,0.0,30.2846,-97.69061
 415,Jain Ln@Stuart Cir,13.91,0.0,30.26252,-97.68695
@@ -427,16 +427,16 @@
 425,Jim Thorpe@Anderson Dr,12.87,10.68,30.15379,-97.84257
 426,Joe Sayers @ Woodrow,16.0,0.0,30.32657,-97.73588
 427,Johanna St@S. 2nd St,64.63,0.0,30.24607,-97.7584
-428,Johnny Morris@Loyola,0.0,9.0,30.30019,-97.64827
+428,Johnny Morris@Loyola,16.0,9.0,30.30019,-97.64827
 429,KINNEY@COLLIER,48.20333333333334,8.209999999999999,30.25299,-97.76775
 430,Kemp @ Clovis,15.0,0.0,30.2432,-97.69325
 431,Kenwood Avenue@Mariposa,25.333333333333332,0.0,30.23943,-97.74305
 432,Killingsworth Lane@Cameron Rd,7.28,0.0,30.3327,-97.6862
 433,Kingsland Way@Hester Rd,17.42,0.0,30.25975,-97.6702
 434,Kinney@Collier,19.45,12.87,30.25299,-97.76775
-435,Koenig @ Burnet,0.0,0.0,30.3348,-97.73983
+435,Koenig @ Burnet,16.0,0.0,30.3348,-97.73983
 436,La Casa@Ann Arbor,9.0,7.0,30.24672,-97.77945
-437,La Naranja Ln@Abilene Trl,13.22,14.79,30.21401,-97.87309
+437,La Naranja Ln@Abilene Trl,13.22,14.79,30.21433,-97.87519
 438,LaCasa@Ann Arbor,0.0,0.0,30.24672,-97.77945
 439,Ladera Vista@Miramonte Cv,21.95,0.0,30.41756,-97.75655
 440,Lafayette @ 30th,33.0,0.0,30.28652,-97.72053
@@ -445,18 +445,18 @@
 443,Lake Austin @Veterans Dr,19.2,0.0,30.27768,-97.77186
 444,Lake Pines@Longdraw,0.0,6.57,30.5131,-97.72484
 445,Lakeline @ Hwy 183,11.0,0.0,30.47998,-97.80186
-446,Lakeline Blvd @Cypress Creek Blvd,0.0,0.0,30.48424,-97.78323
+446,Lakeline Blvd @Cypress Creek Blvd,16.0,0.0,30.48424,-97.78323
 447,Lakeshore@Lady Bird Lake,38.0,0.0,30.2443,-97.72209
 448,Land Grant Way@Cotton Gin,0.0,0.0,,
-449,Langston@Burnell,0.0,11.0,30.31815,-97.669
-450,Langston@Loyola,0.0,0.0,30.31497,-97.67402
+449,Langston@Burnell,16.0,11.0,30.31815,-97.669
+450,Langston@Loyola,16.0,0.0,30.31497,-97.67402
 451,Larkwood Dr@Berkman Dr. ,21.13,0.0,30.31074,-97.69459
-452,Lauralan@Claxton,0.0,0.0,30.24498,-97.90754
+452,Lauralan@Claxton,16.0,0.0,30.24498,-97.90754
 453,Layola Ln@Dubuque Ln,41.34,10.04,30.26759,-97.74299
 454,Leeward@Palisade,28.76,10.05,30.34177,-97.784
 455,Lemens Spice Trail@4 Iron Dr. ,15.07,0.0,30.43636,-97.7801
 456,Lemens Spice Trail@Four Irons,7.913333333333334,1.7766666666666666,30.43636,-97.7801
-457,Limon Ln@S. 4th St.,0.0,0.0,30.23518,-97.7676
+457,Limon Ln@S. 4th St.,10.666666666666666,0.0,30.23518,-97.7676
 458,Linda@Wheless,15.4,7.05,30.31486,-97.6899
 459,Live Oak Street@East Side Drive,58.37,0.0,30.23975,-97.7477
 460,Live Oak@Schriber,16.52,6.2,30.23581,-97.74289
@@ -466,7 +466,7 @@
 464,Lorrain@13th ,29.0,12.0,30.27982,-97.7557
 465,Lott@Nickols,50.47,0.0,30.27681,-97.68465
 466,Lovely Ln@Yucca Hill,14.84,8.52,30.17832,-97.75334
-467,Loyola Lane@Willamette,0.0,9.0,30.31595,-97.67491
+467,Loyola Lane@Willamette,16.0,9.0,30.31595,-97.67491
 468,Lupine@Upland,12.24,0.0,30.24389,-97.73232
 469,Lynridge@Dubuque Ln,19.91,0.0,30.31726,-97.66517
 470,MKL @ EM Franklin,59.0,0.0,30.28599,-97.69712
@@ -474,23 +474,23 @@
 472,MLK @ EM Franklin,64.0,0.0,30.28375,-97.69614
 473,MLK @ Springdale,21.0,0.0,30.28585,-97.68263
 474,MLK Jr@EM Franklin,9.23,0.0,30.28375,-97.69614
-475,MLK@Clifford,0.0,0.0,30.28195,-97.70771
+475,MLK@Clifford,16.0,0.0,30.28195,-97.70771
 476,MLK@Greenwood,9.23,5.09,30.28344,-97.69813
 477,MLK@Hilldale,15.01,0.0,30.28668,-97.67156
 478,MLK@Hilldale Dr,25.38,0.0,30.28668,-97.67156
-479,MLK@Springdale,0.0,0.0,30.28585,-97.68263
+479,MLK@Springdale,16.0,0.0,30.28585,-97.68263
 480,MLK@Vance Cir,108.3,22.11,30.19503,-97.77704
 481,Madison Ave@Woodrow Ave,19.0,11.0,30.34414,-97.72524
 482,Mahone@Burnet,21.07,0.0,30.35813,-97.73031
 483,Maine@Jamestown,0.0,0.0,30.3552,-97.71255
 484,Malone Dr.@Malone Court,15.07,9.0,30.18148,-97.85466
 485,Mancha @ TX Hwy 71,52.0,0.0,30.23676,-97.83763
-486,Manchaca@Edgeware  ,0.0,0.0,30.26759,-97.74299
+486,Manchaca@Edgeware  ,16.0,0.0,30.26759,-97.74299
 487,Manchaca@Hwy 71,0.0,0.0,30.26759,-97.74299
-488,Manchaca@William Cannon,0.0,10.0,30.26759,-97.74299
+488,Manchaca@William Cannon,16.0,10.0,30.26759,-97.74299
 489,Manor @Overbrook,38.22,12.29,30.30406,-97.6818
 490,Manor Rd. @ EM Franklin,19.0,0.0,30.29008,-97.69406
-491,Manor Rd.@Rogge,0.0,0.0,30.30455,-97.6813
+491,Manor Rd.@Rogge,16.0,0.0,30.30455,-97.6813
 492,Manowar@Whirlaway,10.0,0.0,30.26759,-97.74299
 493,Mapleleaf Dr. @Dogge,24.11,0.0,30.30763,-97.69086
 494,Marga Lane@Drew Lane,12.5,20.5,30.16998,-97.83335
@@ -505,12 +505,12 @@
 503,Meadowgreen Dr@Humington Dr,0.0,0.0,30.23711,-97.93696
 504,Meadowood Dr@Fred Morse Dr,25.67,0.0,30.31899,-97.67088
 505,Meander@Redonodo,16.12,0.0,30.26759,-97.74299
-506,Mearns Meadow Blvd@Rutland Drive,0.0,0.0,30.36698,-97.70063
+506,Mearns Meadow Blvd@Rutland Drive,16.0,0.0,30.36698,-97.70063
 507,Melridge Pl@Bluebonnet Ln,21.31,10.93,30.25629,-97.77109
 508,Merriwood Dr@Craigmont Dr,12.88,0.0,30.19976,-97.7808
 509,Metcalfe Rd@Reeves,0.0,8.99,30.22628,-97.73681
-510,MoPac @ C.Chavez,17.5,0.0,30.34196,-97.75325
-511,Montopolis@Hwy 71,0.0,0.0,30.2418756,-97.6921066
+510,MoPac @ C.Chavez,17.5,0.0,30.37057,-97.74149
+511,Montopolis@Hwy 71,16.0,0.0,30.2418756,-97.6921066
 512,Mopac @ Wm. Cannon,16.0,0.0,30.18106,-97.75034
 513,Morning Glory Trl@Bristle Oak,16.33,13.86,30.45154,-97.82038
 514,Morris@Anderson Mill,12.59,0.0,30.45623,-97.76655
@@ -521,12 +521,12 @@
 519,Mustang Lane@Country Estate,18.0,26.0,30.42202,-97.73674
 520,N Platt River Drive@Caravilli Drive,12.43,0.0,30.1575,-97.81701
 521,N. Creek@Rundberg,14.67,7.91,30.35997,-97.69181
-522,Nairn@Latta,0.0,7.35,30.2127,-97.85205
+522,Nairn@Latta,16.0,7.35,30.2127,-97.85205
 523,Navasota@14th St.,400.0,0.0,30.27448,-97.72818
 524,Navasota@Lambie,19.22,0.0,30.26759,-97.74299
 525,Neans Dr@Cripple Creek ,12.82,0.0,30.37528,-97.70178
 526,Needham @ Whalebridge Lns,11.0,0.0,30.1914,-97.89482
-527,Nelson Ranch Loop @ Anderson Mill Rd.,0.0,0.0,30.45491,-97.7706
+527,Nelson Ranch Loop @ Anderson Mill Rd.,16.0,0.0,30.45491,-97.7706
 528,New Hampshire @ Fairfield,20.0,0.0,30.35912,-97.70905
 529,Newfieldt@Enfield,22.18,0.0,30.28564,-97.76328
 530,Newning@Pecan Grove,32.76,0.0,30.24924,-97.74459
@@ -546,14 +546,14 @@
 544,Oak Hollow Circle@Quail Valley Blvd.,17.0,0.0,30.3776,-97.70897
 545,Oak Plaza @ Walnut,16.0,0.0,30.37955,-97.67256
 546,Oakwood Dr@Scurry St,8.75,7.83,30.38273,-97.6777
-547,Oakwood Glen Dr. @ Spider Lily,5.0,0.0,,
+547,Oakwood Glen Dr. @ Spider Lily,13.0,0.0,,
 548,Oakwood Glen Dr. @ Spider Lily -- ANNEX,8.0,0.0,,
-549,Oatmeal@Fairland,0.0,0.0,30.43074,-97.66014
+549,Oatmeal@Fairland,16.0,0.0,30.43074,-97.66014
 550,Ohlen @Lanier Dr.,36.5,0.0,30.36095,-97.72642
 551,Old Bastrop Hwy@US 183,8.89,7.15,30.22876,-97.68205
 552,Old Kimbro Rd@Us-290 East,10.73,10.33,,
-553,Old Sayer @VFW Road,0.0,0.0,30.3921,-97.66973
-554,Old Sayers@Deep Sands ,0.0,0.0,30.26759,-97.74299
+553,Old Sayer @VFW Road,16.0,0.0,30.3921,-97.66973
+554,Old Sayers@Deep Sands ,16.0,0.0,30.26759,-97.74299
 555,Oltorf@Schreiber,15.94,0.0,30.23465,-97.74371
 556,One Oak Rd@Brush Country,10.4,0.0,30.21977,-97.84401
 557,Open Range Trl@Abilene,18.19,0.0,30.22096,-97.86695
@@ -564,7 +564,7 @@
 562,Paddle Bend Springs@IH35,19.65,11.765,,
 563,Palma Plaza @Woodlawn,117.51,23.6,30.2826,-97.76081
 564,Palma Plaza@Marshall Lane,210.0,0.0,30.28119,-97.75653
-565,Palo Blanco@Pine Place,0.0,0.0,30.19458,-97.74975
+565,Palo Blanco@Pine Place,16.0,0.0,30.19458,-97.74975
 566,Pandora@Sol Wilson,68.94,0.0,30.27496,-97.70582
 567,Parmer @Lamplight Village,2.72,0.0,30.41577,-97.69596
 568,Parmer@Canyon Ridge,0.0,0.0,30.40238,-97.67022
@@ -572,7 +572,7 @@
 570,Patterson Rd@Bee Cave Rd,0.0,8.32,30.31318,-97.88132
 571,Patton Ranch Rd.@Vega,31.0,0.0,30.24246,-97.85748
 572,Payne@Arroyo Seco,29.57,7.3,30.33712,-97.73247
-573,Peach Lane@Rose Road,0.0,6.0,30.19615,-97.75277
+573,Peach Lane@Rose Road,16.0,6.0,30.19615,-97.75277
 574,Pease@Norhumberland,36.53,0.0,30.26759,-97.74299
 575,Pecan@E. Walnut Dr,51.47,0.0,30.3502,-97.69854
 576,Pecan@Heatherwilde,175.46,0.0,30.26759,-97.74299
@@ -586,29 +586,29 @@
 584,Perthshire@Bromcade,17.39,0.0,30.26759,-97.74299
 585,Pewter Ln@Button Bend Rd.,15.98,0.0,30.20072,-97.73981
 586,Pfenig@Rocky Creek,0.0,0.0,30.34048,-97.77301
-587,Pheasant Rock@Margit,0.0,0.0,30.44507,-97.76167
+587,Pheasant Rock@Margit,16.0,0.0,30.44507,-97.76167
 588,Philomena@Matti,0.0,6.89,30.29994,-97.70292
 589,Picket Rope@Cinchring,0.0,6.69,30.41518,-97.68381
-590,Pickfair Dr@Spicewood Pkwy,18.91,6.06,30.44334,-97.80637
+590,Pickfair Dr@Spicewood Pkwy,18.91,6.06,30.42814,-97.80931
 591,Pincea Pl@Trail Ridge Pass,8.95,0.0,30.34101,-97.75753
-592,Pinehurst@LaCosta,0.0,0.0,30.14313,-97.78875
-593,Piney Ridge@Laurel Ln,0.0,0.0,30.29658,-97.73766
-594,Pinnacle @Peregrine Falcon,0.0,0.0,30.27088,-97.81071
-595,Platt Ln@FM 973,8.666666666666666,1.5,30.2331,-97.62701
+592,Pinehurst@LaCosta,16.0,0.0,30.14313,-97.78875
+593,Piney Ridge@Laurel Ln,16.0,0.0,30.29658,-97.73766
+594,Pinnacle @Peregrine Falcon,16.0,0.0,30.27088,-97.81071
+595,Platt Ln@FM 973,16.666666666666668,1.5,30.2331,-97.62701
 596,Pleasant Valley@Kuhlman,57.6,0.0,30.26667,-97.71058
 597,Plymouth @ Jameson,12.0,0.0,30.357,-97.70922
-598,Ponca Drive@Thrasher Lane,4.666666666666667,3.0,30.23679,-97.69434
-599,Poncha Pass @ La Concha Pass,6.0,0.0,30.2264,-97.87693
-600,Poplar@Maple,0.0,0.0,30.26759,-97.74299
+598,Ponca Drive@Thrasher Lane,15.333333333333334,3.0,30.23679,-97.69434
+599,Poncha Pass @ La Concha Pass,14.0,0.0,30.2264,-97.87693
+600,Poplar@Maple,16.0,0.0,30.26759,-97.74299
 601,Poquito @Rosewood,25.95,0.0,30.26985,-97.71803
 602,Post Oak@Bouldin,199.71,0.0,30.2578,-97.75458
 603,Potomac Circle@Shenandoah,11.84,5.49,30.34694,-97.69133
 604,Pradera@Fireoak,10.62,0.0,30.4227,-97.77116
 605,Prairie Hen Ln @ Hidden Quail,40.5,0.0,30.39418,-97.70064
-606,Pravada@Escondido,0.0,0.0,30.26759,-97.74299
-607,Prock @ Springdale ,0.0,0.0,30.2707,-97.69227
+606,Pravada@Escondido,16.0,0.0,30.26759,-97.74299
+607,Prock @ Springdale ,16.0,0.0,30.2707,-97.69227
 608,Ptarmigan@Prarie Hen Lane,9.34,7.01,30.39213,-97.70308
-609,Quick Hill@Travesia,0.0,7.0,30.47229,-97.69058
+609,Quick Hill@Travesia,16.0,7.0,30.47229,-97.69058
 610,Racoon Run@Silvermine Dr,13.09,5.965,30.24504,-97.88995
 611,Rainey@Rivier,13.86,0.0,30.26759,-97.74299
 612,Ray C. Ewry Ln@J Weism,0.0,0.0,,
@@ -624,10 +624,10 @@
 622,Ridgeway@Sol Wilson,10.59,0.0,30.24292,-97.75565
 623,Rio  Pass@Uray Dr,0.0,8.44,30.3166,-97.65357
 624,Riverside@Newning,14.23,0.0,30.25351,-97.74379
-625,Riviera Dr. @Lakeline Blvd,0.0,0.0,30.47531,-97.81518
-626,Robin Road@FM 713,0.0,9.0,30.35319,-97.70878
+625,Riviera Dr. @Lakeline Blvd,16.0,0.0,30.47531,-97.81518
+626,Robin Road@FM 713,16.0,9.0,30.35319,-97.70878
 627,Robinson@Concordia,38.66,0.0,30.29237,-97.71985
-628,Rock Terrace Dr.@Barton Skyway,0.0,0.0,30.25183,-97.78537
+628,Rock Terrace Dr.@Barton Skyway,16.0,0.0,30.25183,-97.78537
 629,Rockmoor@Steverson,12.37,0.0,30.30016,-97.77906
 630,Rockshelf ln@Stone Forrest,9.75,0.0,30.55963,-97.74026
 631,Rockwod@Charlwood Dr,6.89,0.0,30.3661,-97.73412
@@ -642,9 +642,9 @@
 640,Rosewood@Webberville,49.95,0.0,30.27243,-97.70486
 641,Rowood @ Airport Blvd.,20.0,0.0,30.29929,-97.71081
 642,Royal Dublin@Pasatiempo,8.04,0.0,30.49619,-97.76011
-643,Rte 1431@New Hope Dr.,0.0,0.0,30.46366,-97.80036
+643,Rte 1431@New Hope Dr.,16.0,0.0,30.46366,-97.80036
 644,Rundberg@Teasdale,8.14,0.0,30.35405,-97.6815
-645,Rundburg@Teasdale,0.0,3.5,30.14767,-97.77148
+645,Rundburg@Teasdale,16.0,3.5,30.14767,-97.77148
 646,Rutherford Ln@Furness Dr,0.0,5.31,30.3406,-97.69017
 647,Rutland Drive@Parkfield Drive,30.0,13.0,30.36924,-97.70551
 648,S Lamar@Gibson,24.0,0.0,30.25495,-97.76216
@@ -653,14 +653,14 @@
 651,S. 4th St@Limon Ln,9.0,0.0,30.23518,-97.7676
 652,S. Congress@Sheraton,8.4,0.0,30.21522,-97.7688
 653,S. Manchaca@Frate-Barker,11.74,0.0,,
-654,S. Mary Moore Searight@Slaughter Lane,0.0,0.0,30.17392,-97.80743
-655,S. Redondo @ Meander,16.0,13.0,30.28093,-97.68108
+654,S. Mary Moore Searight@Slaughter Lane,16.0,0.0,30.17392,-97.80743
+655,S. Redondo @ Meander,24.0,13.0,30.28093,-97.68108
 656,S. Sledge@3rd St,8.82,10.89,30.26477,-97.74212
 657,SE Inner Loop@Rockride Ln,0.0,4.91,,
 658,Saddle @ Black Angus,9.0,0.0,30.42275,-97.73079
 659,Sage Hollow@Cricket Hollow,12.91,0.0,30.38544,-97.70244
 660,Sahara@Libyan,15.84,0.0,30.20798,-97.79263
-661,Salem Walk Dr@Cedar Glen,8.61,0.0,30.21028,-97.78342
+661,Salem Walk Dr@Cedar Glen,8.61,0.0,30.21267,-97.78613
 662,San Lucas Ln@Kavai ln,0.0,0.0,30.17107,-97.73141
 663,Sandy Bottom @Blue Pond Dr,12.16,6.5,,
 664,Santa Cruz Dr@Duval,14.74,0.0,30.41313,-97.73285
@@ -670,35 +670,35 @@
 668,SawyerFay Ln@Jack Ryan Ln,0.0,7.87,30.16562,-97.79749
 669,Scales @Mattie,0.0,0.0,30.29491,-97.70274
 670,Scales@Mathe,8.81,0.0,30.26759,-97.74299
-671,Scenic Brook Dr@Grove Crest ,0.0,5.43,30.23649,-97.88397
+671,Scenic Brook Dr@Grove Crest ,0.0,5.43,30.23709,-97.88045
 672,Schriber @ Live Oak,17.0,0.0,30.23581,-97.74289
 673,Scofield Ln@Rampart St,12.49,0.0,30.4187,-97.68999
 674,Scotland Well @ Caira Cove,16.0,0.0,30.4265,-97.79659
 675,Scotland Well Dr@Spicewoods Springs Rd,0.0,1.9579999999999997,30.42252,-97.7936
-676,Scotland Well Drive@Tweedsmuir Drive,5.97,0.0,30.42364,-97.79557
+676,Scotland Well Drive@Tweedsmuir Drive,13.969999999999999,0.0,30.42728,-97.79665
 677,Sendero Hill@Alsace Tr,11.73,8.34,30.29128,-97.6467
 678,Sentinel Hill @Heritage Oaks,0.0,0.0,30.21,-97.99036
-679,Sentinel Hill@Coach House,7.5,6.5,30.20907,-97.99611
+679,Sentinel Hill@Coach House,15.5,6.5,30.20907,-97.99611
 680,Sentinel Hill@Heritage Oaks,7.46,0.0,30.21,-97.99036
 681,Serene Hills Dr@Serene Hill Ct,10.63,0.0,30.34369,-97.99768
 682,Seviall Dr@West Sequoia,12.48,0.0,30.2955,-97.74095
 683,Sevilla Dr@East Esparada,16.07,8.29,30.32815,-97.68652
 684,Shadowood@Teakwood,21.0,0.0,30.35864,-97.72581
-685,Sharpes@Debba,0.0,8.0,30.37286,-97.93736
-686,Shavano Dr.@Wolftrap,0.0,9.0,30.18337,-97.85894
+685,Sharpes@Debba,16.0,8.0,30.37286,-97.93736
+686,Shavano Dr.@Wolftrap,16.0,9.0,30.18337,-97.85894
 687,Shelley @W. 9 1/2 St.,100.69,12.23,30.27592,-97.75597
 688,Shoal Creek BLvd@Great Oaks Parkway,20.71,10.04,30.31872,-97.74535
 689,Shoal Creek BLvd@Silverleaf Dr.,3.19,1.975,30.35346,-97.74061
 690,Showplace Ln@IH35,19.81,0.0,30.3612,-97.68657
 691,Silk Oak@Bradner,8.42,11.31,30.18612,-97.83852
-692,Silo Valley Dr.@Long Day Dr.,0.0,0.0,30.35877,-97.64483
+692,Silo Valley Dr.@Long Day Dr.,16.0,0.0,30.35877,-97.64483
 693,Silver Creek Dr. @Council Bluff Dr. ,0.0,0.0,30.43304,-97.7178
 694,Silvermine Dr@Litte Deer Crossing,13.81,0.0,30.24131,-97.89142
 695,Single Trace @ Townhill,17.0,0.0,30.44372,-97.68842
 696,Sisquoc Formation View@Alayna Cove,11.4,0.0,30.36546,-97.65346
 697,Slaughter @ Manchaca,30.0,0.0,30.20064,-97.87165
 698,Slaughter @Sydney Marilyn ,0.0,0.0,30.1647,-97.79661
-699,Slaughter Lane@Texas Oaks,0.0,0.0,30.17381,-97.81442
+699,Slaughter Lane@Texas Oaks,16.0,0.0,30.17381,-97.81442
 700,Slaughter@Bradshaw Dr,0.0,0.0,30.26759,-97.74299
 701,Slaughter@Brasher,0.0,0.0,30.17728,-97.83695
 702,Slippery Elm@Bristle Oak,0.0,0.0,30.45873,-97.81471
@@ -709,10 +709,10 @@
 707,Sout Ridge Lane@Rocky Ridge Rd,12.73,0.0,30.41989,-97.94353
 708,South 5th@Terrace Hill Dr,11.79,0.0,30.23705,-97.76763
 709,Speedway @43rd,140.0,0.0,30.30642,-97.72984
-710,Speer Lane@Emerald Forest,6.5,0.0,30.20337,-97.79219
+710,Speer Lane@Emerald Forest,14.5,0.0,30.20337,-97.79219
 711,Spicewood Springs@Yaupon,0.0,0.0,30.39097,-97.77685
-712,Spicewood@Four Iron,0.0,0.0,30.43163,-97.77829
-713,Spring Meadow@Knuckles Crossing,0.0,11.0,30.19741,-97.73625
+712,Spicewood@Four Iron,16.0,0.0,30.43163,-97.77829
+713,Spring Meadow@Knuckles Crossing,16.0,11.0,30.19741,-97.73625
 714,Spring@Ridgeway,50.03,0.0,30.27378,-97.70428
 715,Springdale Rd. @ Breeds Hill,22.0,0.0,30.33848,-97.64871
 716,Springdale@Munson St.,23.0,0.0,30.26971,-97.69291
@@ -720,24 +720,24 @@
 718,Star Gazer Way@Spring Brook,0.0,0.0,,
 719,Stardust@Shoal Creek,28.176666666666666,2.5533333333333332,30.35232,-97.74172
 720,Stokes@Tillery,210.3,0.0,30.26417,-97.70305
-721,Stonebridge Drive@Rutland Drive,0.0,0.0,30.36885,-97.70467
+721,Stonebridge Drive@Rutland Drive,16.0,0.0,30.36885,-97.70467
 722,Suffolk@Belfast,35.83,0.0,30.30905,-97.69931
 723,Summit Hill Dr@Scenic Dr,0.0,0.0,,
 724,Summit@Prairie Lane,11.74,0.0,30.47435,-97.68372
-725,Sunbright@FM 2001,7.0,0.0,30.26759,-97.74299
+725,Sunbright@FM 2001,15.0,0.0,30.26759,-97.74299
 726,Sunny Slope @ RR 258,70.0,0.0,30.29887,-97.76149
-727,Sunshine @ Lamar,0.0,0.0,30.31483,-97.73652
+727,Sunshine @ Lamar,16.0,0.0,30.31483,-97.73652
 728,Sunshine Dr. @49th,39.0,0.0,30.31787,-97.73489
 729,Sunshine Dr@49th,34.32,0.0,30.31787,-97.73489
 730,Sunshine Dr@51st,41.15,0.0,30.32939,-97.72704
 731,Sunshine Garden @ 48th St. N. Lamar,23.0,0.0,30.31483,-97.73652
 732,Sunshine@Lamar Blvd,25.08,8.66,30.31483,-97.73652
 733,Sunshine@W. 49th,35.16,0.0,30.31787,-97.73489
-734,Susquehanna Lane@Dubuque,0.0,8.0,30.31532,-97.66661
-735,Susquehanna Lane@Manor,0.0,0.0,30.31309,-97.66501
+734,Susquehanna Lane@Dubuque,16.0,8.0,30.31532,-97.66661
+735,Susquehanna Lane@Manor,16.0,0.0,30.31309,-97.66501
 736,Swearingen@Wiginton,9.025,0.0,30.38963,-97.6968
-737,Tacon@Pecan,0.0,7.0,30.26759,-97.74299
-738,Taeback@Church Canyon,0.0,7.0,30.36099,-97.63832
+737,Tacon@Pecan,16.0,7.0,30.26759,-97.74299
+738,Taeback@Church Canyon,16.0,7.0,30.36099,-97.63832
 739,Tahoe Trail@Jones Rd,21.25,11.31,30.22476,-97.80216
 740,Tamarack Trl@Manhasset,23.32,8.91,30.43018,-97.71546
 741,Tanglebriar Tr@El Salido,0.0,8.14,30.45702,-97.82146
@@ -751,34 +751,34 @@
 749,Tillery@Thompson,16.95,0.0,30.2674,-97.70161
 750,Timberline Dr@Edgegrove,0.0,10.86,30.27334,-97.78896
 751,Timberline@Rollingwood Dr,11.0,0.0,30.26759,-97.74299
-752,Tiombe Bend@La Cressada Dr.,0.0,0.0,30.2065,-97.86491
-753,Tom Miller@Antone,0.0,0.0,30.29135,-97.7068
+752,Tiombe Bend@La Cressada Dr.,0.0,0.0,30.20383,-97.86875
+753,Tom Miller@Antone,16.0,0.0,30.29135,-97.7068
 754,Tom Wooten@Scott Island,0.0,0.0,30.35626,-97.78716
 755,Tom Wooten@Tom Wooten,4.68,3.08,30.35497,-97.7872
-756,Tomanet Trail@Chromite,0.0,0.0,30.42326,-97.69611
-757,Towbridge Circle@Winslow Court,0.0,0.0,30.14696,-97.81805
+756,Tomanet Trail@Chromite,16.0,0.0,30.42326,-97.69611
+757,Towbridge Circle@Winslow Court,16.0,0.0,30.14696,-97.81805
 758,Townes Ln@Hillview,22.29,8.15,30.2997,-97.76916
 759,Tracy Lynn Ln@E. Leslie Cir,22.74,0.0,30.25563,-97.68712
 760,Trail Crest Circ@Knob Oak,6.536666666666666,0.0,30.24921,-97.82874
 761,Trailcrest Circle@Knob Oak,0.0,4.57,30.24921,-97.82874
 762,Trailhead Dr. @Westlake Dr. ,19.27,11.85,30.33398,-97.81028
 763,Travis Country Circle@Travis Green,8.15,0.0,30.25914,-97.8412
-764,Travis County Circle@Canyonwood,4.073333333333333,0.0,30.24249,-97.82796
+764,Travis County Circle@Canyonwood,4.073333333333333,0.0,30.24536,-97.82414
 765,Travis@Belmal,341.32,0.0,30.26759,-97.74299
-766,Treadwell St. @ Garner,0.0,8.0,30.25866,-97.76646
+766,Treadwell St. @ Garner,16.0,8.0,30.25866,-97.76646
 767,Truman Heights/Bunch @ Samuel Houston,18.0,0.0,,
 768,Upslope Dr@La Concha Pass,11.086250000000001,4.9675,30.23029,-97.87331
-769,Vallecito Cove@Vallecito Drive,0.0,0.0,30.42174,-97.76746
+769,Vallecito Cove@Vallecito Drive,16.0,0.0,30.42174,-97.76746
 770,Vallejo@Hardy,17.77,14.28,30.34288,-97.73491
 771,Valley Oak Dr.@Hancock Dr.,56.0,0.0,30.3314,-97.7569
 772,Vanderbilt Lane@Duguesne Dr,14.39,0.0,30.32027,-97.68171
 773,Vasquez@Montana,15.0,0.0,30.2307,-97.69403
 774,Vega @Southwest Parkway,16.763333333333332,0.0,30.24953,-97.85305
 775,Ventus @ Altum St.,13.0,0.0,30.25814,-97.68417
-776,Veterans  Dr.@Atlanta ,0.0,0.0,30.27572,-97.77157
+776,Veterans  Dr.@Atlanta ,16.0,0.0,30.27572,-97.77157
 777,Vineland @ E. 40th,16.0,0.0,30.29198,-97.70921
-778,Vineland@E. 40th St.,0.0,0.0,30.29198,-97.70921
-779,Virginia Dare Lane@Magna Carta Loop,0.0,0.0,30.33661,-97.64835
+778,Vineland@E. 40th St.,16.0,0.0,30.29198,-97.70921
+779,Virginia Dare Lane@Magna Carta Loop,16.0,0.0,30.33643,-97.64559
 780,W 30th St@ Beverly Rd,45.31,0.0,30.30336,-97.75619
 781,W. 10th@Maufrais,21.34,0.0,30.27769,-97.75761
 782,W. 39 1/2@Peterson,32.92,0.0,30.37329,-97.96914
@@ -793,25 +793,25 @@
 791,Waller St@Flores St,17.18,0.0,30.25351,-97.73555
 792,Waller St@Nash Hernandez,21.76,0.0,30.25242,-97.73549
 793,Waller Street@Clermont Ave,24.59,0.0,30.25434,-97.73517
-794,Waller@Clermont,14.666666666666666,0.0,30.25434,-97.73517
-795,Waller@Flores,0.0,0.0,30.25351,-97.73555
-796,Waller@Lambie,4.5,0.0,30.25527,-97.73474
+794,Waller@Clermont,20.0,0.0,30.25434,-97.73517
+795,Waller@Flores,16.0,0.0,30.25351,-97.73555
+796,Waller@Lambie,12.5,0.0,30.25527,-97.73474
 797,Wally Ave. @ Springdale,46.0,0.0,30.28174,-97.68533
 798,Walnut @ Hemlock,30.666666666666668,0.0,30.28749,-97.71512
-799,Walnut @ Manor,0.0,0.0,30.2851,-97.71417
+799,Walnut @ Manor,16.0,0.0,30.2851,-97.71417
 800,Walnut Ave. @ 32nd,14.0,0.0,30.28618,-97.71441
 801,Walton Ln. @ Boggy Creek,12.0,0.0,30.25881,-97.68801
-802,Wandering Way@Brushy View,0.0,0.0,30.36674,-97.66511
-803,Waterson @ Mopac,190.0,0.0,30.34196,-97.75325
+802,Wandering Way@Brushy View,16.0,0.0,30.36674,-97.66511
+803,Waterson @ Mopac,190.0,0.0,30.37057,-97.74149
 804,Waterston@Woodlawn,318.58,26.46,30.28196,-97.76136
 805,West 12th Street@Possum Trot,44.800000000000004,7.6,30.28585,-97.77052
 806,West Ave. @9th,64.0,0.0,30.27305,-97.74954
-807,West Bank Dr@Bee Cave Road,3.32,0.0,30.27993,-97.8073
-808,West Oak Loop@West Oak Drive,0.0,0.0,30.24355,-97.78509
+807,West Bank Dr@Bee Cave Road,11.32,0.0,30.27993,-97.8073
+808,West Oak Loop@West Oak Drive,16.0,0.0,30.24355,-97.78509
 809,West Oak@Slamar,22.0,0.0,30.2999,-97.74381
-810,West Pointer@Pointer,0.0,0.0,30.36633,-97.71451
-811,Westbank Dr.@Pinnacle Rd.,0.0,0.0,30.27039,-97.80819
-812,Westgate@Stassney,7.328,1.656,30.219,-97.80716
+810,West Pointer@Pointer,16.0,0.0,30.36633,-97.71451
+811,Westbank Dr.@Pinnacle Rd.,16.0,0.0,30.27039,-97.80819
+812,Westgate@Stassney,16.928,1.656,30.219,-97.80716
 813,Westgate@William Cannon,5.525,0.0,30.2071,-97.8154
 814,Westloop@Halwill Pl,34.32,0.0,30.37185,-97.71863
 815,Westmoor@Berkman Dr. ,23.51,0.0,30.30704,-97.69692
@@ -823,15 +823,15 @@
 821,Wheless @ Manor,28.0,0.0,30.3078,-97.67853
 822,Whispering Valley Dr@Misty Brook,8.94,5.79,30.41776,-97.73278
 823,Whispering Valley Dr@Misty Brook Dr,8.63,7.07,30.41776,-97.73278
-824,Whispering Winds@Whispering Oaks,0.0,0.0,30.20318,-97.81421
+824,Whispering Winds@Whispering Oaks,16.0,0.0,30.20318,-97.81421
 825,Whitebrook@Crystal Brook,9.15,0.0,30.30494,-97.6529
 826,Wild Briar Pass@Shannon Oaks,10.7,0.0,30.2778,-97.82296
 827,Wildcat Pass@Wolverine St,0.0,7.1,30.34241,-97.72045
-828,William Cannon@Westgate,0.0,18.0,30.2071,-97.8154
+828,William Cannon@Westgate,16.0,18.0,30.2071,-97.8154
 829,Willow Springs Rd@Woodward,31.18,0.0,30.22781,-97.75631
 830,Willow@Chicon,40.0,0.0,30.25621,-97.72507
 831,Willow@San Saba,67.35,0.0,30.25299,-97.71585
-832,Windsor@Exposition,0.0,0.0,30.29667,-97.76822
+832,Windsor@Exposition,16.0,0.0,30.29667,-97.76822
 833,Windsor@Lamar,0.0,0.0,30.26759,-97.74299
 834,Windsor@Lorrain,270.04,0.0,30.28225,-97.75442
 835,Winwick@N. Shields,12.09,6.9,30.42566,-97.69668
@@ -839,7 +839,7 @@
 837,Woodland@Woodleigh,102.7,0.0,30.26759,-97.74299
 838,Woodlawn @Cromwell Hill,13.56,0.0,30.28553,-97.75913
 839,Woodmont@Stamford Ln,0.0,0.0,30.2919,-97.76931
-840,Woodmoor@Tannehill,0.0,3.0,,
+840,Woodmoor@Tannehill,16.0,3.0,,
 841,Woodrow@Brentwood,35.88,0.0,30.33739,-97.72845
 842,Woodrow@Madison,25.85,0.0,30.34414,-97.72524
 843,Wynne@Albert,23.47,9.66,30.26759,-97.74299
