@@ -21,7 +21,7 @@
 19,22nd @ Chicon,139.0,0.0,30.28277,-97.72187
 20,28 1/2 ST@Salado St,63.51,15.71,30.29549,-97.74501
 21,28th @ Layafette Ave.,60.0,0.0,30.2855,-97.72199
-22,290E@973,8.95,0.0,,
+22,290E@973,8.95,0.0,30.28416,-97.74061
 23,2nd@West Ave,8.08,0.0,30.26648,-97.75202
 24,30th@Kerbey,72.135,0.0,30.30199,-97.75334
 25,30th@Lamar,22.93,0.0,30.29905,-97.74695
@@ -65,7 +65,7 @@
 63,9th@Mill,58.01,0.0,30.26361,-97.71887
 64,9th@Winflow,14.05,0.0,30.27606,-97.75756
 65,A Ln@Rainbow Bend,20.55,0.0,30.28536,-97.75561
-66,A.W. Grimes@Thompson Trl,9.09,0.0,,
+66,A.W. Grimes@Thompson Trl,9.09,0.0,30.28416,-97.74061
 67,AACG@15,0.0,20.89,30.27841,-97.74455
 68,AACG@25,0.0,0.0,30.28931,-97.74458
 69,AACG@40,0.0,0.0,30.30981,-97.74551
@@ -74,7 +74,7 @@
 72,AACG@53,8.79,0.0,30.31634,-97.71838
 73,AACG@62f,7.33,0.0,30.26759,-97.74299
 74,AACG@70,0.0,0.0,30.26759,-97.74299
-75,AW Grimes @ Gattis School,12.0,0.0,,
+75,AW Grimes @ Gattis School,12.0,0.0,30.28416,-97.74061
 76,AW Grimes@RoundVille,0.0,0.0,30.26759,-97.74299
 77,Academy@Sunny,12.0,0.0,30.251,-97.74194
 78,Adam Chapel@E. 3rd St.,30.0,0.0,30.26477,-97.74212
@@ -96,7 +96,7 @@
 94,Alta Vista Ave. @ Woodland,13.0,0.0,30.24406,-97.74318
 95,Amherst @Eton,9.54,0.0,30.41321,-97.72101
 96,Amherst Drive @Adelphi Drive,16.0,5.68,30.42151,-97.71563
-97,Anarosa@Scofield Farms,4.63,0.0,,
+97,Anarosa@Scofield Farms,4.63,0.0,30.28416,-97.74061
 98,Anderson Mill Rd. @ Blk. Oak,16.0,0.0,30.45491,-97.7706
 99,Andre Zilker Rd@William Barton,20.27,0.0,30.26574,-97.77183
 100,Andrew Zilker@William Barton,0.0,5.84,30.26574,-97.77183
@@ -121,10 +121,10 @@
 119,Ballycastle Tr@Avery Ranch,12.5,0.0,30.49395,-97.78339
 120,Bandera@Springdale,9.0,0.0,30.28416,-97.68375
 121,Banyan@Sugar Magnolia,8.84,0.0,30.26759,-97.74299
-122,Barley Field Pass@Dusty Chisolm Trail,13.0,0.0,,
+122,Barley Field Pass@Dusty Chisolm Trail,13.0,0.0,30.28416,-97.74061
 123,Barton Hills@Farnswood Circle,16.0,5.0,30.25351,-97.78992
 124,Barton Springs@Stratford,22.846666666666664,0.0,30.26673,-97.77015
-125,Basket Flower Bend@Prairie Verbena,0.0,5.41,,
+125,Basket Flower Bend@Prairie Verbena,0.0,5.41,30.28416,-97.74061
 126,Bath@Copperfield,16.0,0.0,30.39548,-97.6595
 127,Baywood@Ceberry,9.32,0.0,30.36833,-97.74763
 128,Bear Canyon@Sendero Verde,10.57,7.2,30.25448,-97.82923
@@ -191,7 +191,7 @@
 189,Burnet@Pegram,68.68,17.53,30.3454,-97.73753
 190,Burrell@Villanova,15.47,9.02,30.36002,-97.72125
 191,Byron @ Durnberry,15.0,0.0,30.23553,-97.7861
-192,Byton Loop@Cherry Creek,0.0,5.28,,
+192,Byton Loop@Cherry Creek,0.0,5.28,30.28416,-97.74061
 193,C.Chavez @ Mopac,15.0,0.0,30.37057,-97.74149
 194,CR 470@CR 619,15.0,0.0,30.26759,-97.74299
 195,CR 470@CR 619 (Black Mud Sample),15.0,0.0,30.10907,-97.7208
@@ -237,14 +237,14 @@
 235,Coppermead@Edenbourgh,11.2,8.96,30.33293,-97.64522
 236,Cornflower@Archaleta,11.3,7.26,30.26759,-97.74299
 237,Coronado @Mathias,16.0,0.0,30.2622,-97.71476
-238,Country Ln@Morning Sun Ln,0.0,5.19,,
+238,Country Ln@Morning Sun Ln,0.0,5.19,30.28416,-97.74061
 239,Crenata@Jollyville,7.95,5.78,30.26759,-97.74299
 240,Creole Dr. @Lamplight Village,0.0,0.0,30.4276,-97.68921
 241,Creston Lane@Northway Drive,46.61,0.0,30.34366,-97.70974
-242,Crestwind@Western Sky,14.69,0.0,,
+242,Crestwind@Western Sky,14.69,0.0,30.28416,-97.74061
 243,Crown Ct@Villa Park,8.565,2.55,30.45941,-97.7709
 244,Crystal Brook@Milrace,7.14,0.0,30.3156,-97.65196
-245,Cushing Dr@School Days Dr,7.75,8.7,,
+245,Cushing Dr@School Days Dr,7.75,8.7,30.28416,-97.74061
 246,DG Collins@Hwy 183,9.09,0.0,30.26759,-97.74299
 247,Davis Lane @ Star Cross,10.0,0.0,30.19532,-97.84232
 248,Davis Ln@West Gate Blvd,0.0,0.0,30.19098,-97.83337
@@ -275,7 +275,7 @@
 273,E. 2nd @ Caney--West,31.0,0.0,30.25698,-97.72128
 274,E. 34th @Speedway,16.0,0.0,30.29812,-97.73511
 275,E. 9th St.@Lincoln,54.0,0.0,30.26389,-97.72011
-276,E. Baker@Moonlit,16.0,0.0,,
+276,E. Baker@Moonlit,16.0,0.0,30.28416,-97.74061
 277,E. Baker@Whisper Willow,13.35,0.0,30.2569,-97.72707
 278,E. Powell Ln@Georgian Dr,15.83,0.0,30.34753,-97.70317
 279,EM Franklin@MLK,16.0,0.0,30.19818,-97.74257
@@ -311,7 +311,7 @@
 309,Fair Oaks@Plumas,43.61,20.5,30.2202,-97.79661
 310,Fairfield Ln@Evans,47.35,0.0,30.31072,-97.72075
 311,Fairmont Cr. @ Fairhill Ln.,10.0,0.0,30.21847,-97.79778
-312,Fairweather @ New Hope,16.0,0.0,,
+312,Fairweather @ New Hope,16.0,0.0,30.28416,-97.74061
 313,Far West @Waterline,15.36,8.37,30.36046,-97.76797
 314,Farnswood Circle@Barton Hills Drive,16.0,0.0,30.25305,-97.79123
 315,Feather Ridge Tr.@Rocky Ridge Road,40.12,8.93,30.41989,-97.94353
@@ -406,10 +406,10 @@
 404,I-35 @ Flores,10.0,0.0,30.25374,-97.73625
 405,I-35 @ US-183,17.0,0.0,30.33935,-97.70074
 406,I-35@Airport Blvd,28.0,0.0,30.30079,-97.71382
-407,I-H 290 @ McArthur Dr.,12.0,0.0,,
+407,I-H 290 @ McArthur Dr.,12.0,0.0,30.28416,-97.74061
 408,Independence@Rutledge,0.0,0.0,30.2153,-97.8077
 409,Indian Mound Dr@N Lamar,16.0,4.0,30.40584,-97.67857
-410,Indian Summer Pass@Apache,16.0,7.0,,
+410,Indian Summer Pass@Apache,16.0,7.0,30.28416,-97.74061
 411,Inspiration Dr@Gunnison Pass,14.02,0.0,30.30948,-97.65303
 412,Iriona Bend@Coastal,16.0,0.0,30.19775,-97.84879
 413,Isabelle@Rufus,9.0,8.0,30.33347,-97.71363
@@ -447,7 +447,7 @@
 445,Lakeline @ Hwy 183,11.0,0.0,30.47998,-97.80186
 446,Lakeline Blvd @Cypress Creek Blvd,16.0,0.0,30.48424,-97.78323
 447,Lakeshore@Lady Bird Lake,38.0,0.0,30.2443,-97.72209
-448,Land Grant Way@Cotton Gin,0.0,0.0,,
+448,Land Grant Way@Cotton Gin,0.0,0.0,30.28416,-97.74061
 449,Langston@Burnell,16.0,11.0,30.31815,-97.669
 450,Langston@Loyola,16.0,0.0,30.31497,-97.67402
 451,Larkwood Dr@Berkman Dr. ,21.13,0.0,30.31074,-97.69459
@@ -517,7 +517,7 @@
 515,Mount Bonnell@Twin Valley Cove,9.91,0.0,30.34875,-97.78047
 516,Mountaineer Lane@East Wind Drive,11.67,0.0,30.34471,-97.71747
 517,Mountaineer@Sugar Magnolia,0.0,5.23,30.34424,-97.71654
-518,Moutainclimb@Dry Creek,16.8,0.0,,
+518,Moutainclimb@Dry Creek,16.8,0.0,30.28416,-97.74061
 519,Mustang Lane@Country Estate,18.0,26.0,30.42202,-97.73674
 520,N Platt River Drive@Caravilli Drive,12.43,0.0,30.1575,-97.81701
 521,N. Creek@Rundberg,14.67,7.91,30.35997,-97.69181
@@ -546,12 +546,12 @@
 544,Oak Hollow Circle@Quail Valley Blvd.,17.0,0.0,30.3776,-97.70897
 545,Oak Plaza @ Walnut,16.0,0.0,30.37955,-97.67256
 546,Oakwood Dr@Scurry St,8.75,7.83,30.38273,-97.6777
-547,Oakwood Glen Dr. @ Spider Lily,13.0,0.0,,
-548,Oakwood Glen Dr. @ Spider Lily -- ANNEX,8.0,0.0,,
+547,Oakwood Glen Dr. @ Spider Lily,13.0,0.0,30.28416,-97.74061
+548,Oakwood Glen Dr. @ Spider Lily -- ANNEX,8.0,0.0,30.28416,-97.74061
 549,Oatmeal@Fairland,16.0,0.0,30.43074,-97.66014
 550,Ohlen @Lanier Dr.,36.5,0.0,30.36095,-97.72642
 551,Old Bastrop Hwy@US 183,8.89,7.15,30.22876,-97.68205
-552,Old Kimbro Rd@Us-290 East,10.73,10.33,,
+552,Old Kimbro Rd@Us-290 East,10.73,10.33,30.28416,-97.74061
 553,Old Sayer @VFW Road,16.0,0.0,30.3921,-97.66973
 554,Old Sayers@Deep Sands ,16.0,0.0,30.26759,-97.74299
 555,Oltorf@Schreiber,15.94,0.0,30.23465,-97.74371
@@ -561,7 +561,7 @@
 559,Oriole@Garrett Run,9.223333333333334,1.8099999999999998,30.3663,-97.68785
 560,Oriole@Longspur,16.0,0.0,30.36495,-97.68791
 561,Oxford @ Valeria,55.5,0.0,30.24977,-97.7709
-562,Paddle Bend Springs@IH35,19.65,11.765,,
+562,Paddle Bend Springs@IH35,19.65,11.765,30.28416,-97.74061
 563,Palma Plaza @Woodlawn,117.51,23.6,30.2826,-97.76081
 564,Palma Plaza@Marshall Lane,210.0,0.0,30.28119,-97.75653
 565,Palo Blanco@Pine Place,16.0,0.0,30.19458,-97.74975
@@ -611,7 +611,7 @@
 609,Quick Hill@Travesia,16.0,7.0,30.47229,-97.69058
 610,Racoon Run@Silvermine Dr,13.09,5.965,30.24504,-97.88995
 611,Rainey@Rivier,13.86,0.0,30.26759,-97.74299
-612,Ray C. Ewry Ln@J Weism,0.0,0.0,,
+612,Ray C. Ewry Ln@J Weism,0.0,0.0,30.28416,-97.74061
 613,Reagan Terrace@Kenwood,22.04,10.0,30.24424,-97.74036
 614,Red Willow @ Benjamin Dr.,14.0,0.0,30.22612,-97.7327
 615,Redd St@Diane Dr,27.88,10.6,30.2247,-97.78465
@@ -652,17 +652,17 @@
 650,S. 1st @ Stassney,18.0,0.0,30.20844,-97.78154
 651,S. 4th St@Limon Ln,9.0,0.0,30.23518,-97.7676
 652,S. Congress@Sheraton,8.4,0.0,30.21522,-97.7688
-653,S. Manchaca@Frate-Barker,11.74,0.0,,
+653,S. Manchaca@Frate-Barker,11.74,0.0,30.28416,-97.74061
 654,S. Mary Moore Searight@Slaughter Lane,16.0,0.0,30.17392,-97.80743
 655,S. Redondo @ Meander,24.0,13.0,30.28093,-97.68108
 656,S. Sledge@3rd St,8.82,10.89,30.26477,-97.74212
-657,SE Inner Loop@Rockride Ln,0.0,4.91,,
+657,SE Inner Loop@Rockride Ln,0.0,4.91,30.28416,-97.74061
 658,Saddle @ Black Angus,9.0,0.0,30.42275,-97.73079
 659,Sage Hollow@Cricket Hollow,12.91,0.0,30.38544,-97.70244
 660,Sahara@Libyan,15.84,0.0,30.20798,-97.79263
 661,Salem Walk Dr@Cedar Glen,8.61,0.0,30.21267,-97.78613
 662,San Lucas Ln@Kavai ln,0.0,0.0,30.17107,-97.73141
-663,Sandy Bottom @Blue Pond Dr,12.16,6.5,,
+663,Sandy Bottom @Blue Pond Dr,12.16,6.5,30.28416,-97.74061
 664,Santa Cruz Dr@Duval,14.74,0.0,30.41313,-97.73285
 665,Santa Maria @Matamoros,50.3,0.0,30.25789,-97.71843
 666,Santa Maria@Pedernales,113.0,0.0,30.2569,-97.71555
@@ -717,12 +717,12 @@
 715,Springdale Rd. @ Breeds Hill,22.0,0.0,30.33848,-97.64871
 716,Springdale@Munson St.,23.0,0.0,30.26971,-97.69291
 717,St. Edwards Dr@Eastside Dr,9.79,0.0,30.23147,-97.75106
-718,Star Gazer Way@Spring Brook,0.0,0.0,,
+718,Star Gazer Way@Spring Brook,0.0,0.0,30.28416,-97.74061
 719,Stardust@Shoal Creek,28.176666666666666,2.5533333333333332,30.35232,-97.74172
 720,Stokes@Tillery,210.3,0.0,30.26417,-97.70305
 721,Stonebridge Drive@Rutland Drive,16.0,0.0,30.36885,-97.70467
 722,Suffolk@Belfast,35.83,0.0,30.30905,-97.69931
-723,Summit Hill Dr@Scenic Dr,0.0,0.0,,
+723,Summit Hill Dr@Scenic Dr,0.0,0.0,30.28416,-97.74061
 724,Summit@Prairie Lane,11.74,0.0,30.47435,-97.68372
 725,Sunbright@FM 2001,15.0,0.0,30.26759,-97.74299
 726,Sunny Slope @ RR 258,70.0,0.0,30.29887,-97.76149
@@ -766,7 +766,7 @@
 764,Travis County Circle@Canyonwood,4.073333333333333,0.0,30.24536,-97.82414
 765,Travis@Belmal,341.32,0.0,30.26759,-97.74299
 766,Treadwell St. @ Garner,16.0,8.0,30.25866,-97.76646
-767,Truman Heights/Bunch @ Samuel Houston,18.0,0.0,,
+767,Truman Heights/Bunch @ Samuel Houston,18.0,0.0,30.28416,-97.74061
 768,Upslope Dr@La Concha Pass,11.086250000000001,4.9675,30.23029,-97.87331
 769,Vallecito Cove@Vallecito Drive,16.0,0.0,30.42174,-97.76746
 770,Vallejo@Hardy,17.77,14.28,30.34288,-97.73491
@@ -839,7 +839,7 @@
 837,Woodland@Woodleigh,102.7,0.0,30.26759,-97.74299
 838,Woodlawn @Cromwell Hill,13.56,0.0,30.28553,-97.75913
 839,Woodmont@Stamford Ln,0.0,0.0,30.2919,-97.76931
-840,Woodmoor@Tannehill,16.0,3.0,,
+840,Woodmoor@Tannehill,16.0,3.0,30.28416,-97.74061
 841,Woodrow@Brentwood,35.88,0.0,30.33739,-97.72845
 842,Woodrow@Madison,25.85,0.0,30.34414,-97.72524
 843,Wynne@Albert,23.47,9.66,30.26759,-97.74299
