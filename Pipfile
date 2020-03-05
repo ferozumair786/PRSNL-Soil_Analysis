@@ -14,6 +14,7 @@ pandas = "*"
 xlrd = "*"
 scikit-learn = "*"
 matplotlib = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.7"
