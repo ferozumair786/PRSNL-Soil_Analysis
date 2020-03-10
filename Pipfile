@@ -13,8 +13,8 @@ notebook = "*"
 pandas = "*"
 xlrd = "*"
 scikit-learn = "*"
-matplotlib = "*"
 numpy = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
